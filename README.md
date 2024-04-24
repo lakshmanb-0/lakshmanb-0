@@ -39,4 +39,4 @@
 <a href="https://www.linkedin.com/in/lakshman-bhambhu/"><img src="https://img.shields.io/badge/-lakshman-bhambhu?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:lakshmanram2259@gmail.com"><img src="https://img.shields.io/badge/-lakshmanram2259@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanb-0&" alt="vivek9patel" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmanb-0" alt="lakshmanb-0" /></p>
